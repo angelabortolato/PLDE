@@ -8,5 +8,3 @@ Contents include:
 * Lecture and reference materials
 * Laboratory notebooks and scripts with data analysis and modeling exercises
 * Final project and related resources
-
-The repository is intended to support reproducible analysis and computational exploration of complex biological and epidemiological phenomena.
